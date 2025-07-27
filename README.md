@@ -1,11 +1,7 @@
 # dic-lab
 DIC Lab｜覺行屋 自我介紹頁面
 <!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>DIC Lab｜覺行屋</title>
+
 </head>
 <body style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 2rem; background-color: #f9f9f9;">
   <h1>DIC Lab｜覺行屋</h1>
